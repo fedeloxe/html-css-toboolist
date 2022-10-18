@@ -146,6 +146,10 @@ ul::before{
     margin-top: 30px;
 }
 
+#list3{
+    margin-top: 30px;
+}
+
 #tag2{
     background-color:rgb(69, 171,234);
     border-radius: 15px;
@@ -173,3 +177,25 @@ ul::before{
     color: white;
     padding: 8px;
 }
+
+#tag6{
+    background-color:rgb(216, 99, 161);
+    border-radius: 15px;
+    color: white;
+    padding: 8px;
+}
+
+#tag7{
+    background-color:rgb(176, 201, 38);
+    border-radius: 15px;
+    color: white;
+    padding: 8px;
+}
+
+#tag8{
+    background-color:rgb(69, 171,234);
+    border-radius: 15px;
+    color: white;
+    padding: 8px;
+}
+
