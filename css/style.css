@@ -1,0 +1,29 @@
+/*box sizing*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+/*header*/
+
+#logo{
+    height: 100px;
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+img{  
+    vertical-align: middle;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+}
+/*main*/
+main{width: 2000px;
+    background-color:lightgray;
+}
