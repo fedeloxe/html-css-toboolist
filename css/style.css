@@ -27,16 +27,13 @@ img{
 }
 
 h1{
-    
     display: inline-block;
     vertical-align: middle;
 }
 
 /*main*/
 
-main{
-  height:100%;     
-}
+
 
 #interfaccia{
     margin-top: 30px;
